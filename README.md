@@ -1,4 +1,4 @@
-### Handle PDF file in frontend
+# Handle PDF file in frontend
 
 ## Introduction
 
