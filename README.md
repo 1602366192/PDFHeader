@@ -1,0 +1,1 @@
+Handle PDF file in frontend
